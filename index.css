@@ -1,0 +1,9 @@
+.view {
+    width:80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+pre {
+    text-align: center;
+}
